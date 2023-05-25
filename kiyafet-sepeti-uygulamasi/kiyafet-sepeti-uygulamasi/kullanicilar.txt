@@ -1,0 +1,4 @@
+biri,null,null,123456Abc,05061400604,null,null,null
+ayse tak,rai,bidi1@gmail.com,aysetak_123,05061400604,Ortahisar,2-3-2000,0
+sevgi yilmaz,sevgiyy,sevgi1@gmail.com,sevgi_2112,05061400604,Akcaabat,2-3-2000,0
+yagmur akan,yagmurr,yagmur1@gmail.com,yagmur123_,05061400604,Yomra,2-3-2000,0

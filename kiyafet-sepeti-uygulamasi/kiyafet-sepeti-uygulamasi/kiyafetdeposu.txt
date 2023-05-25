@@ -1,0 +1,10 @@
+1,elbise,mavi,l,99.9,10
+2,tshirt,kirmizi,s,50.00,5
+3,pantolon,sari,m,100,1
+4,gomlek,yesil,s,25,3
+5,etek,siyah,xl,34.90,7
+6,ayakkabi,siyah,m,89.90,4
+7,gomlek,mavi,xl,25,6
+8,ayakkabi,siyah,s,80.90,5
+9,elbise,beyaz,l,125,4
+10,pantolon,siyah,s,105,3

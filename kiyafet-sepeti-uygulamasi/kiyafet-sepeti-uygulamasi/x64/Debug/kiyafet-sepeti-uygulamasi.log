@@ -1,0 +1,14 @@
+﻿  kiyafet-sepeti-uygulamasi.cpp
+C:\Users\Pc\Desktop\kiyafet-sepeti-uygulamasi\kiyafet-sepeti-uygulamasi\kiyafet-sepeti-uygulamasi.cpp(151,35): warning C4267: '=': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Pc\Desktop\kiyafet-sepeti-uygulamasi\kiyafet-sepeti-uygulamasi\kiyafet-sepeti-uygulamasi.cpp(522,29): warning C4267: 'return': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Pc\Desktop\kiyafet-sepeti-uygulamasi\kiyafet-sepeti-uygulamasi\kiyafet-sepeti-uygulamasi.cpp(703,40): warning C4267: 'başlatılıyor': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Pc\Desktop\kiyafet-sepeti-uygulamasi\kiyafet-sepeti-uygulamasi\kiyafet-sepeti-uygulamasi.cpp(762,32): warning C4267: '=': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Pc\Desktop\kiyafet-sepeti-uygulamasi\kiyafet-sepeti-uygulamasi\kiyafet-sepeti-uygulamasi.cpp(777,11): warning C4804: '<=' : işlemde güvenli olmayan 'bool' türü kullanımı
+C:\Users\Pc\Desktop\kiyafet-sepeti-uygulamasi\kiyafet-sepeti-uygulamasi\kiyafet-sepeti-uygulamasi.cpp(1278,27): warning C4267: 'return': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Pc\Desktop\kiyafet-sepeti-uygulamasi\kiyafet-sepeti-uygulamasi\kiyafet-sepeti-uygulamasi.cpp(1378,12): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\Users\Pc\Desktop\kiyafet-sepeti-uygulamasi\kiyafet-sepeti-uygulamasi\kiyafet-sepeti-uygulamasi.cpp(1716,40): warning C4267: 'başlatılıyor': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Pc\Desktop\kiyafet-sepeti-uygulamasi\kiyafet-sepeti-uygulamasi\kiyafet-sepeti-uygulamasi.cpp(470): warning C4715: 'KiyafetList::getUrun': tüm denetim yolları değer döndürmez
+C:\Users\Pc\Desktop\kiyafet-sepeti-uygulamasi\kiyafet-sepeti-uygulamasi\kiyafet-sepeti-uygulamasi.cpp(537): warning C4172: yerel değişkenin veya geçici : kiyafet öğesinin adresi döndürülüyor
+C:\Users\Pc\Desktop\kiyafet-sepeti-uygulamasi\kiyafet-sepeti-uygulamasi\kiyafet-sepeti-uygulamasi.cpp(2393): warning C4715: 'Menu::KullaniciKontrolu': tüm denetim yolları değer döndürmez
+C:\Users\Pc\Desktop\kiyafet-sepeti-uygulamasi\kiyafet-sepeti-uygulamasi\kiyafet-sepeti-uygulamasi.cpp(2423): warning C4715: 'Menu::YoneticiKontrolu': tüm denetim yolları değer döndürmez
+  kiyafet-sepeti-uygulamasi.vcxproj -> C:\Users\Pc\Desktop\kiyafet-sepeti-uygulamasi\x64\Debug\kiyafet-sepeti-uygulamasi.exe

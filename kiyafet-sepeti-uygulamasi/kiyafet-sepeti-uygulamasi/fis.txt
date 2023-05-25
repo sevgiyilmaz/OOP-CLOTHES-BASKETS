@@ -1,0 +1,17 @@
+30113,ayse tak,bidi1@gmail.com,11:24,01:10,38,150,2      tshirt    kirmizi   s    50,3      pantolon  sari      m    100,
+32222,ayse tak,bidi1@gmail.com,11:35,01:10,0,114.9,6      ayakkabi  siyah     m    89.9,4      gomlek    yesil     s    25,
+199,ayse tak,bidi1@gmail.com,11:39,01:10,0,75,2      tshirt    kirmizi   s    50,4      gomlek    yesil     s    25,
+1508,ayse tak,bidi1@gmail.com,11:45,01:10,10,99.9,1      elbise    mavi      l    99.9
+1577,ayse tak,bidi1@gmail.com,11:46,01:10,10,50,2      tshirt    kirmizi   s    50
+28934,ayse tak,bidi1@gmail.com,19:40,00:35,456,89.9,6      ayakkabi  siyah     m    89.9
+29071,ayse tak,bidi1@gmail.com,19:41,00:35,456,34.9,5      etek      siyah     xl   34.9
+30100,ayse tak,bidi1@gmail.com,19:46,00:35,456,99.9,1      elbise    mavi      l    99.9
+5430,ayse tak,bidi1@gmail.com,20:27,00:35,-858993460,99.9,1      elbise    mavi      l    99.9
+5495,ayse tak,bidi1@gmail.com,20:28,00:35,-858993460,139.9,5      etek      siyah     xl   34.9,10     pantolon  siyah     s    105,
+5590,ayse tak,bidi1@gmail.com,20:28,00:35,-858993460,25,7      gomlek    mavi      xl   25
+6276,ayse tak,bidi1@gmail.com,20:32,00:35,-858993460,80.9,8      ayakkabi  siyah     s    80.9
+7971,ayse tak,bidi1@gmail.com,20:40,00:35,456,114.9,6      ayakkabi  siyah     m    89.9,4      gomlek    yesil     s    25,
+8016,ayse tak,bidi1@gmail.com,20:40,00:35,10,100,3      pantolon  sari      m    100
+8098,ayse tak,bidi1@gmail.com,20:41,01:10,456,125,9      elbise    beyaz     l    125
+18574,sevgi yilmaz,sevgi1@gmail.com,21:34,00:50,456,25,4      gomlek    yesil     s    25
+18600,sevgi yilmaz,sevgi1@gmail.com,21:34,00:50,10,125,9      elbise    beyaz     l    125
